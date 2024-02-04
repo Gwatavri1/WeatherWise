@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 200px;
+    background-color: skyblue;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 5px solid ;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+p{
+    font-size: 18px;
+}
